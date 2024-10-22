@@ -1,0 +1,18 @@
+zm_G1_city by Kachito. 
+
+Made for the Gamerone community (2013). Visit www.gamerone.net.
+This map comes with detailed textures. To enable detail textures type in console:
+r_detailtextures 1
+r_detailtexturessupported 1  
+Max wpoly: ~1000.
+Max epoly: ~3000.
+Total entities: 375.
+
+
+Credits:
+Models: 17Buddies.net, HL-lab.ru.
+Textures: NightWatch mod. team, Cgtextures.com.
+Ideas: Timmykinz a.k.a So Shut Up Boy, xCudi.
+
+For more info and reporting any bugs, visit the Gamerone community website at: www.gamerone.net.
+Or e-mail me at: kachito_maps@yahoo.com
